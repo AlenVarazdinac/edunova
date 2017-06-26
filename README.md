@@ -11,3 +11,8 @@ http://vote4music.byethost7.com/dz2/?left=500&top=200
 DZ3 5.6.2017.
 (php)
 http://www.vote4music.byethost7.com/dz3/
+
+DZ5 14.6.2017.
+Username - alen
+Password - a
+http://www.vote4music.byethost7.com/dz5/
