@@ -1,0 +1,48 @@
+body {
+    background-color: #DDDDDD;
+}
+
+#google_img {
+    width: 100%;
+    height: auto;
+}
+
+#googleSmall_img {
+    width: 100%;
+    height: auto;
+}
+
+#main_text {
+}
+
+#side_content {
+}
+
+#copy_txt {
+    text-align: center;
+}
+
+#aboutus_text {
+    margin-top: 5%;
+    padding: 15px 0px;
+}
+
+#login_txt {
+  color: white;
+}
+
+#login_form {
+    width: 100%;
+    padding: 30px 10px;
+    margin-bottom: 25px;
+    background-color: #FFFFFF;
+}
+
+#rl_login_btn {
+    margin-top: 35px;
+}
+
+#log_info {
+    text-align: center;
+    margin-top: 25px;
+}
